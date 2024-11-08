@@ -1,0 +1,5 @@
+.DS_Store
+.nuxt
+.output
+.idea
+node_modules
